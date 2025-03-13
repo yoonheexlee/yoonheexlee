@@ -36,11 +36,16 @@
 <div align="center">
     <h2 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align="center"> 
+        <a href="https://www.threads.net/@chat_danielle" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Threads_%28app%29_logo.svg/512px-Threads_%28app%29_logo.svg.png" width="100">
+        </a>
         <a href=mailto:yoonheexlee@gmail.com> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yoonheexlee@gmail.com">
         </a>
     </div>  
 </div>
+
+
 
 
 <!--
