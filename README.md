@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-    <h2 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> I am </h2>  
+    <h3 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> I am </h3>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
         <li> A Challenger</li>
         <li> A Passionate Problem Solver</li>
@@ -11,8 +11,10 @@
     </div>
 </div>
 
+<br/>
+
 <div align="center">
-    <h2 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🛠️ Tech Stacks 🛠️ </h2>
+    <h3 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🛠️ Tech Stacks 🛠️ </h3>
     <div style="margin: 0 auto; text-align: center;"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
@@ -24,8 +26,10 @@
     </div>
 </div>
 
+<br/>
+
 <div align="center">
-    <h2 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🔧 Tools 🔧 </h2>
+    <h3 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🔧 Tools 🔧 </h3>
     <div style="margin: 0 auto; text-align: center;"> 
         <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
@@ -34,14 +38,16 @@
     </div>
 </div>
 
+<br/>
+
 <div align="center">
-    <h2 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+    <h3 style="color: #282d33; border-bottom: none; display: inline-block; margin-bottom: 10px;"> 🧑‍💻 Contact me 🧑‍💻 </h3>
     <div align="center"> 
-        <a href="https://www.threads.net/@chat_danielle" target="_blank">
-            <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=Instagram&logoColor=white">
-        </a>
         <a href=mailto:yoonheexlee@gmail.com> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yoonheexlee@gmail.com">
+        </a>
+        <a href="https://www.threads.net/@chat_danielle" target="_blank">
+            <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=Instagram&logoColor=white">
         </a>
     </div>  
 </div>
